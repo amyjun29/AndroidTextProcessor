@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Text File Processor</string>
+    <string name="new_message">New Message</string>
+    <string name="search_message">Search Message</string>
+    <string name="save">Save</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="textview">TextView</string>
+    <string name="lower_case">Lower Case</string>
+    <string name="search_text">search_text</string>
+    <string name="delete">Delete</string>
+    <string name="go">GO</string>
+</resources>
